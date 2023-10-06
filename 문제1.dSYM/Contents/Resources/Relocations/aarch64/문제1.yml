@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/anismynm/Desktop/과제/2023-2/자료구조및실습/6주차/문제1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _CircleAndPoint, symObjAddr: 0x0, symBinAddr: 0x1000038B0, symSize: 0x108 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _CircleAndPoint, symObjAddr: 0x0, symBinAddr: 0x1000038B0, symSize: 0x108 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: _CircleAndCircle, symObjAddr: 0x108, symBinAddr: 0x1000039B8, symSize: 0x28C }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x394, symBinAddr: 0x100003C44, symSize: 0xF0 }
+...
