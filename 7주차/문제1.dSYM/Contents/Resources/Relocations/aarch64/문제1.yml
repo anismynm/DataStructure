@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/anismynm/Desktop/과제/2023-2/자료구조와실습/DataStructure/7주차/문제1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _SearchInfo, symObjAddr: 0x0, symBinAddr: 0x100002110, symSize: 0x2CC }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _SearchInfo, symObjAddr: 0x0, symBinAddr: 0x100002110, symSize: 0x2CC }
+  - { offsetInCU: 0x132, offset: 0x132, size: 0x8, addend: 0x0, symName: _NewInfo, symObjAddr: 0x2CC, symBinAddr: 0x1000023DC, symSize: 0x344 }
+  - { offsetInCU: 0x1D5, offset: 0x1D5, size: 0x8, addend: 0x0, symName: _DeleteInfo, symObjAddr: 0x610, symBinAddr: 0x100002720, symSize: 0x330 }
+  - { offsetInCU: 0x269, offset: 0x269, size: 0x8, addend: 0x0, symName: _MidAverage, symObjAddr: 0x940, symBinAddr: 0x100002A50, symSize: 0xCC }
+  - { offsetInCU: 0x2D3, offset: 0x2D3, size: 0x8, addend: 0x0, symName: _FinalAverage, symObjAddr: 0xA0C, symBinAddr: 0x100002B1C, symSize: 0xCC }
+  - { offsetInCU: 0x33D, offset: 0x33D, size: 0x8, addend: 0x0, symName: _HwAverage, symObjAddr: 0xAD8, symBinAddr: 0x100002BE8, symSize: 0xCC }
+  - { offsetInCU: 0x3A7, offset: 0x3A7, size: 0x8, addend: 0x0, symName: _PrintRank, symObjAddr: 0xBA4, symBinAddr: 0x100002CB4, symSize: 0x3E4 }
+  - { offsetInCU: 0x4B4, offset: 0x4B4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xF88, symBinAddr: 0x100003098, symSize: 0x3EC }
+...
