@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/anismynm/Desktop/과제/2023-2/자료구조와실습/DataStructure/10주차/DoublyLinkedList"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Insert, symObjAddr: 0x0, symBinAddr: 0x100003468, symSize: 0x23C }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _head, symObjAddr: 0x18A0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xB2, offset: 0xB2, size: 0x8, addend: 0x0, symName: _Insert, symObjAddr: 0x0, symBinAddr: 0x100003468, symSize: 0x23C }
+  - { offsetInCU: 0xF2, offset: 0xF2, size: 0x8, addend: 0x0, symName: _Delete, symObjAddr: 0x23C, symBinAddr: 0x1000036A4, symSize: 0x1BC }
+  - { offsetInCU: 0x124, offset: 0x124, size: 0x8, addend: 0x0, symName: _Search, symObjAddr: 0x3F8, symBinAddr: 0x100003860, symSize: 0x154 }
+  - { offsetInCU: 0x164, offset: 0x164, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x54C, symBinAddr: 0x1000039B4, symSize: 0x178 }
+...
