@@ -51,4 +51,13 @@ int main() {
         }
         printf("\n");
     }
+
+    for (int i = 0; i < N; i ++) {
+        grape_pointer p = vert[i];
+        while (p != NULL) {
+            grape_pointer temp = p;
+            p = p -> link;
+            free(temp);
+        }
+    }
 }
